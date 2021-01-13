@@ -1,0 +1,50 @@
+[
+    {
+        "DateIssue": "2020-12-22 ",
+        "DateForecast": "2020-12-23 ",
+        "ReportingArea": "Boston",
+        "StateCode": "MA",
+        "Latitude": 42.351,
+        "Longitude": -71.051,
+        "ParameterName": "PM2.5",
+        "AQI": -1,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        },
+        "ActionDay": false,
+        "Discussion": ""
+    },
+    {
+        "DateIssue": "2020-12-22 ",
+        "DateForecast": "2020-12-24 ",
+        "ReportingArea": "Boston",
+        "StateCode": "MA",
+        "Latitude": 42.351,
+        "Longitude": -71.051,
+        "ParameterName": "PM2.5",
+        "AQI": -1,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        },
+        "ActionDay": false,
+        "Discussion": ""
+    },
+    {
+        "DateIssue": "2020-12-22 ",
+        "DateForecast": "2020-12-25 ",
+        "ReportingArea": "Boston",
+        "StateCode": "MA",
+        "Latitude": 42.351,
+        "Longitude": -71.051,
+        "ParameterName": "PM2.5",
+        "AQI": -1,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        },
+        "ActionDay": false,
+        "Discussion": ""
+    }
+]

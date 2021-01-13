@@ -1,0 +1,50 @@
+[
+    {
+        "DateIssue": "2020-12-22 ",
+        "DateForecast": "2020-12-23 ",
+        "ReportingArea": "Metropolitan Washington",
+        "StateCode": "DC",
+        "Latitude": 38.919,
+        "Longitude": -77.013,
+        "ParameterName": "PM2.5",
+        "AQI": 38,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        },
+        "ActionDay": false,
+        "Discussion": "High pressure will quickly move overhead Wednesday. Despite weaker winds and overnight early morning surface inversions, expect Good air quality across the state given a clean residual air mass and sufficient afternoon mixing. A developing low pressure system will make its way through the region Christmas Eve, Thursday. Moderate to heavy precipitation will help to keep fine particle pollution low. Good air quality is expected. Continued Good air quality is expected across the state Christmas Day given a clean inflow of Canadian air behind the passing low pressure system. –MDE  "
+    },
+    {
+        "DateIssue": "2020-12-22 ",
+        "DateForecast": "2020-12-24 ",
+        "ReportingArea": "Metropolitan Washington",
+        "StateCode": "DC",
+        "Latitude": 38.919,
+        "Longitude": -77.013,
+        "ParameterName": "PM2.5",
+        "AQI": 29,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        },
+        "ActionDay": false,
+        "Discussion": "High pressure will quickly move overhead Wednesday. Despite weaker winds and overnight early morning surface inversions, expect Good air quality across the state given a clean residual air mass and sufficient afternoon mixing. A developing low pressure system will make its way through the region Christmas Eve, Thursday. Moderate to heavy precipitation will help to keep fine particle pollution low. Good air quality is expected. Continued Good air quality is expected across the state Christmas Day given a clean inflow of Canadian air behind the passing low pressure system. –MDE  "
+    },
+    {
+        "DateIssue": "2020-12-22 ",
+        "DateForecast": "2020-12-25 ",
+        "ReportingArea": "Metropolitan Washington",
+        "StateCode": "DC",
+        "Latitude": 38.919,
+        "Longitude": -77.013,
+        "ParameterName": "PM2.5",
+        "AQI": 21,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        },
+        "ActionDay": false,
+        "Discussion": "High pressure will quickly move overhead Wednesday. Despite weaker winds and overnight early morning surface inversions, expect Good air quality across the state given a clean residual air mass and sufficient afternoon mixing. A developing low pressure system will make its way through the region Christmas Eve, Thursday. Moderate to heavy precipitation will help to keep fine particle pollution low. Good air quality is expected. Continued Good air quality is expected across the state Christmas Day given a clean inflow of Canadian air behind the passing low pressure system. –MDE  "
+    }
+]
